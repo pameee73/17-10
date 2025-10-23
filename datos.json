@@ -25,15 +25,15 @@
   },
   {
     "imagen": "img/isabela.webp",
-    "titulo": "Taller 4: ClickNotes",
-    "categoria": "Proyecto Examen",
-    "descripcion": "Trabajo de taco de notas, un diseño para hombre referenciado de cubos rubik, magnético, hecho a mano"
+    "titulo": "Editorial",
+    "categoria": "Editorial",
+    "descripcion": "Trabajo muy bonito"
   },
   {
     "imagen": "img/opti_.webp",
-    "titulo": "Llaveros personalizados",
-    "categoria": "Elaboración digital",
-    "descripcion": "Elaboración e impresión de llaveros para pyme de ilustración"
-  },
+    "titulo": "Sistema de reciclaje",
+    "categoria": "Sistema de reciclaje",
+    "descripcion": "Sistema de reciclaje para peñalolen"
+  }
 
 ]
